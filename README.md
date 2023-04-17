@@ -8,7 +8,7 @@ open-cv python ,
 pandas 
 and deepface 
 
-using Pip install technique
+use "Pip install" technique
   
 to import dependices write them as:
 
